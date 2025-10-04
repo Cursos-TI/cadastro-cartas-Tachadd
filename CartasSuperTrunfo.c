@@ -82,8 +82,10 @@
     printf("TAMANHO EM KM2: %3.f\n", área );
     
     printf("PIB: %3.f\n", PIB);
+    
     //CARTA 2
     printf("CARTA 2\n");
+    
     
     printf("ESTADO: %s\n", Estado);
     
