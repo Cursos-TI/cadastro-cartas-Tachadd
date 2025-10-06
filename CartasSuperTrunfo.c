@@ -15,7 +15,7 @@
     printf("CARTA 1\n");
     
     
-    char Estado [20], nome[20];
+    char Estado[20], nome[20];
     int população, codigo, pontos;
     float área, PIB, Densidade, capita;
 
@@ -23,7 +23,7 @@
     scanf("%s", &Estado);
 
     printf("Qual o código da sua carta? \n");
-    scanf("%s", &codigo);
+    scanf("%d", &codigo);
 
     printf("Qual o nome da cidade? \n");
     scanf("%s", &nome);
